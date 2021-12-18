@@ -1,0 +1,17 @@
+/* Jared Tate 12/17/2021 */
+.amsubheading{
+    font-style:italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ambullets{
+    color:rgb(12, 4, 78);
+}
+.hpsubheading{
+    text-align: center;
+}
+.amheading{
+    color:rgb(73, 27, 27)
+}
+body{
+    background-color: rgba(114, 126, 102, 0.945);
+}
